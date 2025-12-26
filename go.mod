@@ -1,4 +1,4 @@
-module github.com/pencil/checkin
+module github.com/gpencil/checkin
 
 go 1.24.0
 
